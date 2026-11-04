@@ -1,0 +1,6 @@
+{
+  "name": "CraftBrain - Minecraft Decision Model Trainer",
+  "description": "Train, simulate, and export intelligent decision models (Neural DQN, Behavior Trees, Imitation Learning) to autonomously play Minecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
